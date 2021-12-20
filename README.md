@@ -11,6 +11,6 @@ Se encuentra en la carpeta "Entrega02"
 
 ## La parte práctica del parcial
 Se encuentra en la carpeta "Parcial_practico" donde 
-Pregunta1.ipynb          contiene el punto 1
-Parcial_Punto2.ipynb     contiene el punto 2
-Parcial_Punto3.ipynb     contiene el punto 3 
+- Pregunta1.ipynb          contiene el punto 1
+- Parcial_Punto2.ipynb     contiene el punto 2
+- Parcial_Punto3.ipynb     contiene el punto 3 
