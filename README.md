@@ -15,7 +15,5 @@ Se encuentra en la carpeta "Parcial_practico" donde
 - Parcial_Punto2.ipynb     contiene el punto 2
 - Parcial_Punto3.ipynb     contiene el punto 3 
 
-
-## prueba de manejo de Git y Github
-probando un texto
-
+# segunda modificcación
+ssdfsdf
